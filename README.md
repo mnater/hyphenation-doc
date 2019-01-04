@@ -19,3 +19,9 @@ https://www.w3.org/TR/css-text-3/#hyphens-property
 
 ## TeX hyphenation patterns
 https://github.com/hyphenation/tex-hyphen/tree/master/hyph-utf8/tex/generic/hyph-utf8/patterns/txt
+
+## Word segmentation
+https://unicode.org/reports/tr29/#Word_Boundaries
+https://code.google.com/archive/p/v8-i18n/wikis/BreakIterator.wiki
+https://github.com/tc39/proposal-intl-segmenter
+https://github.com/camertron/cldr-segmentation.js
